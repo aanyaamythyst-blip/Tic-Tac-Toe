@@ -80,23 +80,6 @@ root.mainloop()
 
 
 
-# A=50
-# def Demo():
-#     A = 50
-#     A+=1
-#     print(A)
-# Demo()
-# Demo()
-# print(A)
 
-
-# A=50
-# def Demo():
-#     global A
-#     A+=1
-#     print(A)
-# Demo()
-# Demo()
-# print(A)
 
 
